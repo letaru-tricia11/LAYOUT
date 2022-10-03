@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+#title{
+    background-color: cadetblue;
+
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+
+}
+img{
+    border-radius: 50%;
+    float: right;
+    height: 100px;
+    width: 100px;
+}
+#logo{
+    height: 800px;
+    width:500px
+    
+    
+}
