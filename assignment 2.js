@@ -1,7 +1,12 @@
-var names =["Zahrah","Muhammad","Akbar"]
-for(let z in names){
-console.log (names[z])
-}
+//Array
+var names=["Muhammad", "Becky", "Tracy","Zahrah","Rahma"]
 
-names [0]= "Zahrah is my name."
-console.log (names[0])
+//For In
+
+for (let i= 0; i>=0; ++i) {
+    if(i ==4){
+        console.log("This is my name")
+        break;
+    }
+       console.log(names[i])
+}

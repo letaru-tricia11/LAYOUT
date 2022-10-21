@@ -69,7 +69,16 @@ for(let z in names){
 }
 
 //do..while..loop
+const cars = ["BMW", "Volvo", "Saab", "Ford"];
+let i = 0;
+let text = "Ford";
+
+while (cars[i]) {
+  text += cars[i];
+  i++;
+}
 //For...of..loop
+
 //For...each....loop
 
 //Mkae an array of names that include your name
